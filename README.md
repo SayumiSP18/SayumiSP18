@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
--🎓 Software Engineering Student & Java Enthusiast.<br/>
+-🎓 Software Engineering Student & Java Enthusiast , love to solve problems.<br/>
 -🏗️ Focused on OOP, MVC/Layered Architecture, and crafting desktop applications with JavaFX.<br/>
 -💻 Constantly learning, refactoring, and building automation tools.<br/>
 
